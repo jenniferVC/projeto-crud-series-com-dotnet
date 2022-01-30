@@ -1,0 +1,15 @@
+C:\bootcamp-decola-tech\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+C:\bootcamp-decola-tech\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+C:\bootcamp-decola-tech\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\bootcamp-decola-tech\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+C:\bootcamp-decola-tech\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+C:\bootcamp-decola-tech\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+C:\bootcamp-decola-tech\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\bootcamp-decola-tech\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\bootcamp-decola-tech\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\bootcamp-decola-tech\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\bootcamp-decola-tech\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\bootcamp-decola-tech\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+C:\bootcamp-decola-tech\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+C:\bootcamp-decola-tech\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+C:\bootcamp-decola-tech\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
